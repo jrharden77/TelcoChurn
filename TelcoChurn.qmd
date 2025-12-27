@@ -27,7 +27,6 @@ format:
         \usepackage{framed}
         \usepackage{fvextra}
         \usepackage{xcolor}
-        \newenvironment{keep_together}{\begin{minipage}{\linewidth}}{\end{minipage}}
         \lstset{
           basicstyle=\ttfamily\small,
           breaklines=true,
